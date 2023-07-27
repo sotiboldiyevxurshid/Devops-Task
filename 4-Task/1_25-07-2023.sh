@@ -8,3 +8,5 @@ echo "Shell Scripting is Fun!"
 
 
 # Terminalda "Shell Scripting is Fun!" chiqadi
+
+
