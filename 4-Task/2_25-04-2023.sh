@@ -5,3 +5,6 @@
 
 MESSAGE="Shell Scripting is Fun!"
 echo ${MESSAGE}
+
+
+# Terminalda "Shell Scripting is Fun!" chiqadi
