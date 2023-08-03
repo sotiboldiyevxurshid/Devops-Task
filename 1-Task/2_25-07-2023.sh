@@ -1,4 +1,6 @@
 #!/bin/bash
+
+
 # test-file: Evaluate the status of a file
 echo "Hey what's the File/Directory name (using the absolute path)?"
 read FILE
